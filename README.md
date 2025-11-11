@@ -37,13 +37,13 @@ Each engagement is a focused security operation with a clear outcome: expose, un
 
 **[BashBard](https://github.com/5afagy/BashBard)** — AI shell assistant for red teamers  
 `Features:` Prompt-injection defense • Operational notes automation • Macro attack workflows
-
+<!--
 **[OmniPentest](https://github.com/5afagy/OmniPentest)** — Recon + brute force + misconfig scanner  
 `Features:` Modular scanning • Wordlist orchestration • Instant HTML reporting
 
 **[360-Scan](https://github.com/5afagy/360-Scan)** — Misconfiguration + CVE + weak credential scanner  
 `Features:` Live CVE feed integration • AD weak-creds checks • JSON/CSV export
-
+-->
 ## 🔍 Security Impact
 
 - **Reported to:** IBM • Nokia • Coca-Cola • IKEA • Airbnb • AT&T • Vodafone • Orange • LinkedIn • BugBountySA  
