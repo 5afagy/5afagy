@@ -35,7 +35,7 @@ Each engagement is a focused security operation with a clear outcome: expose, un
 
 ## 🛠 Offensive Tool Arsenal
 
-**[BashBard](https://github.com/5afagy/BashBard)** — AI shell assistant for red teamers  
+**[BashBard](https://github.com/5afagy/BashBard)** - AI shell assistant for red teamers  
 AI-augmented terminal assistant that embeds Google Gemini intelligence directly into your Linux shell via a true PTY environment.
 `Features:` AI that turns plain talk into shell commands, blocks rm disasters, fixes typos, teaches why 30 s install, real PTY, any language.
 <!--
